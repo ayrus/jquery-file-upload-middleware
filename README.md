@@ -1,6 +1,8 @@
 jquery-file-upload-middleware
 =============================
 
+> This module has been mofified and customized to work with [PairIDE](https://github.com/pairide/pairide). Original readme is appended below as is.
+
 jQuery-File-Upload Express.js middleware. Based on the server code of [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload)
 
 Installation:
